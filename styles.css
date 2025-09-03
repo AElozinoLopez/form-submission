@@ -53,3 +53,7 @@ form .input-box {
 .field .item::placeholder {
   color: rgba(255, 255, 255, 0.2);
 }
+
+form .textarea-field .item {
+  resize: none;
+}
