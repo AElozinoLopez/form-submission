@@ -1,7 +1,7 @@
 * {
   padding: 0;
   margin: 0;
-  font-fmaily: "poppins", sans-serif;
+  font-family: "poppins", sans-serif;
   box-sizing: border-box;
 }
 
@@ -16,4 +16,11 @@ body {
 .contact h2 {
   font-size: 4rem;
   color: #ededed;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.contact form {
+  width: 60rem;
+  text-align: center;
 }
