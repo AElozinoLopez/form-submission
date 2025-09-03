@@ -34,6 +34,9 @@ form .input-box {
   justify-content: space-between;
 }
 
+.input-box .input-field {
+}
+
 .field .item {
   width: 100%;
   padding: 1.8rem;
@@ -44,4 +47,8 @@ form .input-box {
   font-size: 1.6rem;
   color: #ededed;
   margin: 1.2rem 0;
+}
+
+.field .item::placeholder {
+  color: rgba(255, 255, 255, 0.2);
 }
