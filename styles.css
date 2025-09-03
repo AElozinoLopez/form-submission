@@ -1,9 +1,19 @@
-
-
 * {
   padding: 0;
   margin: 0;
   font-fmaily: "poppins", sans-serif;
   box-sizing: border-box;
-  /* background-color: black; */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #1f242d;
+}
+
+.contact h2 {
+  font-size: 4rem;
+  color: #ededed;
 }
