@@ -50,12 +50,23 @@ form .input-box {
   margin: 1.2rem 0;
 }
 
+.field .error-txt {
+  font-size: 1.45rem;
+  color: #d93025;
+  text-align: left;
+  margin: -0.5rem 0 1rem;
+}
+
 .field .item::placeholder {
   color: rgba(255, 255, 255, 0.2);
 }
 
 form .textarea-field .item {
   resize: none;
+}
+
+form .textarea-field .error-txt {
+  margin-top: -1rem;
 }
 
 form button {
