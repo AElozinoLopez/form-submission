@@ -24,3 +24,13 @@ body {
   width: 60rem;
   text-align: center;
 }
+
+form .input-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.field .item {
+  width: 100%;
+  padding: 1.8rem;
+}
