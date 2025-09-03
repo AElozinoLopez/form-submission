@@ -55,6 +55,7 @@ form .input-box {
   color: #d93025;
   text-align: left;
   margin: -0.5rem 0 1rem;
+  display: none;
 }
 
 .field .item::placeholder {
