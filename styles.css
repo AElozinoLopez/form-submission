@@ -41,4 +41,7 @@ form .input-box {
   border: 0.2rem solid #0ef;
   outline: none;
   border-radius: 0.6px;
+  font-size: 1.6rem;
+  color: #ededed;
+  margin: 1.2rem 0;
 }
